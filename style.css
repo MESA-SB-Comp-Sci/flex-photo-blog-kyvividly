@@ -383,9 +383,9 @@
 .about {
   background-color: #f1efe8;
   padding: 24px;
-  display: ???;
-  gap: ???;
-  align-items: ???;
+  display: flex;
+  gap: 20px;
+  align-items: center;
 }
 
 .about-image {
@@ -403,7 +403,7 @@
 
 .about-content {
   display: flex;
-  flex-direction: ???;
+  flex-direction: column;
   gap: 10px;
 }
 
